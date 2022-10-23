@@ -1,5 +1,5 @@
 # StoringData-JDBC-
-Storing &amp; retrieving users data from MySQL database connected to Java.
+Storing &amp; retrieving users data from MySQL database through Java.
 
 - In this program user can create and access their account by entering required details
 - All the user data would be stored in the SQL database
